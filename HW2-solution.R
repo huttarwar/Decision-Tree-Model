@@ -1,5 +1,4 @@
 #Heramb Vijay Uttarwar
-#A20398330
 #CS-422 HW-2
 
 
